@@ -1,11 +1,66 @@
 {
-  "timestamp": "2025-04-06T15:30:26.376Z",
+  "timestamp": "2025-04-06T15:30:52.788Z",
   "status": {
-    "totalComponents": 0,
+    "totalComponents": 9,
     "completedComponents": 0,
     "failedComponents": 0,
     "progress": 0
   },
-  "components": [],
+  "components": [
+    {
+      "name": "Header",
+      "type": "header",
+      "status": "pending",
+      "description": "RTL header with logo and navigation menu for the restaurant"
+    },
+    {
+      "name": "HeroSection",
+      "type": "hero",
+      "status": "pending",
+      "description": "Main hero section showcasing the restaurant's ambiance with headline and CTA"
+    },
+    {
+      "name": "AboutSection",
+      "type": "about",
+      "status": "pending",
+      "description": "Section describing the restaurant's background, experience, and specialties"
+    },
+    {
+      "name": "ServicesSection",
+      "type": "services",
+      "status": "pending",
+      "description": "Section showcasing the restaurant's services and specialties"
+    },
+    {
+      "name": "PortfolioGallery",
+      "type": "portfolio",
+      "status": "pending",
+      "description": "Visual gallery showcasing the restaurant's dishes, ambiance, and events"
+    },
+    {
+      "name": "FAQSection",
+      "type": "faq",
+      "status": "pending",
+      "description": "Frequently asked questions about the restaurant"
+    },
+    {
+      "name": "ContactForm",
+      "type": "contact",
+      "status": "pending",
+      "description": "Contact form for customer inquiries"
+    },
+    {
+      "name": "Footer",
+      "type": "footer",
+      "status": "pending",
+      "description": "Footer with restaurant information, links, and social media"
+    },
+    {
+      "name": "ScrollToTop",
+      "type": "utility",
+      "status": "pending",
+      "description": "Button to scroll back to the top of the page"
+    }
+  ],
   "repoName": "webis-site-msadh-gma-1743953384015"
 }
